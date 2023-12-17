@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGaWBmcVB88JlglOU71Z6i3wkCo2lXXkbRoSpDdEf+x52CrJKPkRjHQyglrxpNmpc/gwuXC4rF3bYLrykgCTjQ==",
+  "success": true,
+  "projectFilePath": "D:\\Папка со всем\\Папка со всем\\учеба\\Приктика 04.12\\ЛабРаб6\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivanp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ivanp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ivanp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+C:\Users\dubid\Downloads\Telegram Desktop\ДЕМОЭКЗАМЕН\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+D:\Папка со всем\Папка со всем\учеба\Приктика 04.12\ЛабРаб6\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
